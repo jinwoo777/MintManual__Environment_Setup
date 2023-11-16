@@ -1,6 +1,6 @@
 **Welcome to the Manuals of @KU_mintlab!**
 
-> Discover the essential tools and setups for cutting-edge research in the @KU_mintlab. Our comprehensive guide provides detailed insights into various research methodologies, complete with step-by-step instructions to enhance your experimental journey.
+> Discover the essential tools and setups for cutting-edge research in the @KU_mintlab. Our comprehensive guide provides detailed insights into various research methodologies, complete with step-by-step instructions to enhance your experimental journey. Visit **Wiki** section to view the manual :)
 
 
 **What's Inside?**
