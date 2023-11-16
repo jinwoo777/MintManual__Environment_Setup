@@ -12,7 +12,7 @@
 
 **We Value Your Input!**
 
-> Encountered a challenge or have insights to share? Your feedback is crucial! Contribute to our collaborative learning environment by posting in the **"Discussions"** section. Let's innovate together!
+> Encountered a challenge or have insights to share? Your feedback is crucial! Contribute to our collaborative learning environment by posting in the **[Discussions](https://github.com/suninbaek/mintlab_manual/discussions)** section. Let's innovate together!
 
 
 `Current Edition: Updated as of November 16, 2023`
