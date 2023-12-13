@@ -38,7 +38,7 @@
 > ### 2. [IntelRealsense SDK 2.0 설치](https://github.com/mintlabkorea/mintlab_manual/blob/main/Guideline%20101.md#16-intelrealsend-sdk-20-%EC%84%A4%EC%B9%98)
 > ### 3. [IntelRealSense-ros wrapper 설치](https://github.com/mintlabkorea/mintlab_manual/blob/main/Guideline%20101.md#17-intelrealsense-ros-wrapper-%EC%84%A4%EC%B9%98)
 
-# 7. [서버 원격 접속](https://github.com/mintlabkorea/mintlab_manual/wiki/MINT-Lab-%EC%84%9C%EB%B2%84-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%9B%90%EA%B2%A9-%EC%A0%91%EC%86%8D)
+# 7. [서버 원격 접속](https://github.com/mintlabkorea/mintlab_manual/blob/main/%EC%84%9C%EB%B2%84%20%EC%9B%90%EA%B2%A9%20%EC%A0%91%EC%86%8D.md)
 
 # [ETC](https://github.com/mintlabkorea/mintlab_manual/blob/main/Guideline%20101.md#17-intelrealsense-ros-wrapper-%EC%84%A4%EC%B9%98)
 ***
