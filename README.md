@@ -31,7 +31,7 @@
 # 5. ROS 설치 및 설정
 > ### 1. [ROS 설치](https://github.com/mintlabkorea/mintlab_manual/blob/main/Guideline%20101.md#8-ros-%EC%84%A4%EC%B9%98)
 > ### 2. [Catkin Workspace 만들기](https://github.com/mintlabkorea/mintlab_manual/blob/main/Guideline%20101.md#14-catkin-workspace-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-> ### 3. [Catkin Package 만들기](https://github.com/mintlabkorea/mintlab_manual/blob/main/Guideline%20101.md#15-catkin-package-%EB%A7%8C%EB%93%A4%EA%B8%B0%EC%9D%BC%EB%8B%A8%EC%9D%80-skip
+> ### 3. [Catkin Package 만들기](https://github.com/mintlabkorea/mintlab_manual/blob/main/Guideline%20101.md#15-catkin-package-%EB%A7%8C%EB%93%A4%EA%B8%B0%EC%9D%BC%EB%8B%A8%EC%9D%80-skip)
 
 # 6. 3D 센싱 및 관련 개발 도구 설치
 > ### 1. [librealsense 설치](https://github.com/mintlabkorea/mintlab_manual/blob/main/Guideline%20101.md#13-librealsense-%EC%84%A4%EC%B9%98)
