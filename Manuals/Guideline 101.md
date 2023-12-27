@@ -343,6 +343,7 @@ ___________
 > `cd ~/catkin_ws/src` : **src**파일로 이동
 > 
 > **A.** `catkin_init_workspace` : **CMakeLists.txt** 생성
+
 > **B.** `catkin init` 
 > 
 
@@ -351,6 +352,7 @@ ___________
 > `cd ..` : 작업공간을 **~/catkin_ws/src**의 상위 디렉토리(**~/catkin**) 로 옮김
 > 
 > **A.** `catkin_make` : **CMakeLists.txt**를 활용하여 **build**
+
 > **B.**  `sudo apt-get install python3-catkin-tools` ==> `catkin build`
 > 
 > `source devel/setup.bash` : **build** 과정으로 생성된 **devel**파일 안의 **setup.bash**를 실행하여 그 작업공간이 **ros**환경의 최상위에 **overlay**되도록 **shell**에 등록
@@ -393,6 +395,7 @@ ___________
 아래 링크는 참고용
 
 > https://www.intelrealsense.com/sdk-2/
+> https://get-help.robotigniteacademy.com/t/resource-not-found-rgbd-launch-using-kinect-using-ros-noetic/12527
 
 ___________
 
