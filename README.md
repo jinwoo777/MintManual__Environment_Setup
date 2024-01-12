@@ -40,6 +40,9 @@
 
 # 7. [서버 원격 접속](https://github.com/mintlabkorea/mintlab_manual/blob/main/Manuals/%EC%84%9C%EB%B2%84%20%EC%9B%90%EA%B2%A9%20%EC%A0%91%EC%86%8D.md)
 
+# 8. [MATLAB 설치](https://github.com/mintlabkorea/MintManual__Environment_Setup/blob/main/Manuals/MATLAB%20%EC%84%A4%EC%B9%98.md#1-matlab-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%9D%B4%EB%8F%99)
+
+
 # [ETC](https://github.com/mintlabkorea/mintlab_manual/blob/main/Manuals/Guideline%20101.md#17-intelrealsense-ros-wrapper-%EC%84%A4%EC%B9%98)
 ***
 
